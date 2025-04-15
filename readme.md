@@ -42,5 +42,5 @@ This is a ✨ special ✨ GitHub repository that powers my profile page. Here, y
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdd-24&show_icons=true&locale=en" alt="mhdd-24" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdd-24" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdd-24&theme=tokyonight" alt="GitHub streak" />
 </p>
