@@ -9,7 +9,7 @@ This is a ✨ special ✨ GitHub repository that powers my profile page. Here, y
 
 <p align="left"> <a href="https://twitter.com/muhddd_24" target="blank"><img src="https://img.shields.io/twitter/follow/muhddd_24?logo=twitter&style=for-the-badge" alt="muhddd_24" /></a> </p>
 
-- 🔭 I’m currently working on *Revenue Technology Service**
+- 🔭 I’m currently working on *Revenue Technology Service*
 
 - 🌱 I’m currently learning **Advanced AI prompt engineering and system design**
 
