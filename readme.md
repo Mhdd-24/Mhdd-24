@@ -1,7 +1,7 @@
 This is a ✨ special ✨ GitHub repository that powers my profile page. Here, you'll find an overview of my work, skills, and projects. Stay tuned for updates, contributions, and more! 🚀
 
 <h1 align="center">Hi 👋, I'm Mohammed Rafi M</h1>
-<h3 align="center">Full-Stack .NET Developer with 3+ years of experience in building scalable, cloud-native applications using .NET Core, Microservices, Angular, SQL, and NoSQL. Skilled in architecting robust solutions and leading large-scale migrations, including transitioning a native mobile app to a PWA for over 70,000 users. Passionate about solving complex challenges and ensuring long-term scalability. Strong communicator, adept at collaborating with both technical and business teams.</h3>
+<h3 align="center">Full-Stack .NET Developer with 4+ years of experience in building scalable, cloud-native applications using .NET Core, Microservices, Angular, SQL, and NoSQL. Skilled in architecting robust solutions and leading large-scale migrations, including transitioning a native mobile app to a PWA for over 70,000 users. Passionate about solving complex challenges and ensuring long-term scalability. Strong communicator, adept at collaborating with both technical and business teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdd-24&label=Profile%20views&color=0e75b6&style=flat" alt="mhdd-24" /> </p>
 
