@@ -48,15 +48,19 @@ I enjoy designing scalable software, cloud-native applications, AI-powered solut
 
 ---
 
-## 💼 Professional Experience
+<table width="100%" cellspacing="0" cellpadding="8">
+<tr>
+<td width="33%" valign="top">
 
-### Revenue Technology Services (RTS)
+### 💼 Professional Experience
+
+#### Revenue Technology Services (RTS)
 
 **Software Development Engineer II**
 
 > Airline Cargo Management Systems
 
-#### Working with
+##### Working with
 
 - .NET Core
 - Angular 19
@@ -72,11 +76,9 @@ Working on products including
 - AcceleRate
 - Foresight
 
----
+#### Bajaj Finserv
 
-### Bajaj Finserv
-
-#### Software Development Engineer II
+##### Software Development Engineer II
 
 Worked on
 
@@ -94,7 +96,7 @@ Achievements
 
 ✅ Reduced deployment effort by 60%
 
-#### Software Development Engineer I
+##### Software Development Engineer I
 
 Worked on
 
@@ -114,9 +116,7 @@ Applications served
 
 **70M+ Downloads**
 
----
-
-### JETZ Global Logistics
+#### JETZ Global Logistics
 
 Software Engineer
 
@@ -127,19 +127,20 @@ Worked on
 - Logistics Dashboard
 - Import / Export Systems
 
----
+</td>
+<td width="33%" valign="top">
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Frontend
+#### Frontend
 
 <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind"/>
 
-### Backend
+#### Backend
 
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,java,spring"/>
 
-### Database
+#### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
@@ -149,7 +150,7 @@ REST APIs
 
 NoSQL
 
-### Cloud & DevOps
+#### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
 
@@ -161,7 +162,7 @@ CI/CD
 
 Microservices
 
-### AI & ML
+#### AI & ML
 
 - Prompt Engineering
 
@@ -177,11 +178,12 @@ Microservices
 
 - TensorFlow
 
----
+</td>
+<td width="34%" valign="top">
 
-## 🏆 Featured Projects
+### 🏆 Featured Projects
 
-### ✈ Airline Cargo Management
+#### ✈ Airline Cargo Management
 
 Enterprise airline cargo platform built using
 
@@ -195,7 +197,7 @@ MongoDB
 
 SQL Server
 
-### 💰 Engineering CRM
+#### 💰 Engineering CRM
 
 Enterprise internal CRM integrating
 
@@ -209,7 +211,7 @@ Analytics
 
 PWA
 
-### 🤖 Fake Review Detection
+#### 🤖 Fake Review Detection
 
 Deep Learning
 
@@ -219,7 +221,7 @@ Sentiment Analysis
 
 Yelp Dataset
 
-### 🔍 Venmurasu Search Engine
+#### 🔍 Venmurasu Search Engine
 
 Tamil NLP
 
@@ -227,7 +229,7 @@ OCR
 
 Search Indexing
 
-### 👁 Diabetic Retinopathy Detection
+#### 👁 Diabetic Retinopathy Detection
 
 AI
 
@@ -235,7 +237,7 @@ Deep Learning
 
 Medical Imaging
 
-### 🍷 Wine Quality Prediction
+#### 🍷 Wine Quality Prediction
 
 Machine Learning
 
@@ -245,7 +247,7 @@ Naive Bayes
 
 SVM
 
-### 💃 Dance Studio Manager
+#### 💃 Dance Studio Manager
 
 Scheduling
 
@@ -253,7 +255,7 @@ Payments
 
 Instructor Management
 
-### 🍲 AI Recipe Application
+#### 🍲 AI Recipe Application
 
 AI
 
@@ -261,13 +263,17 @@ Recipe Recommendation
 
 Responsive UI
 
-### 🚘 Tesla Clone
+#### 🚘 Tesla Clone
 
 React
 
 Three.js
 
 Animations
+
+</td>
+</tr>
+</table>
 
 ---
 
