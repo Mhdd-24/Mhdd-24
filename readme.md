@@ -1,48 +1,419 @@
-This is a ✨ special ✨ GitHub repository that powers my profile page. Here, you'll find an overview of my work, skills, and projects. Stay tuned for updates, contributions, and more! 🚀
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohammed Rafi M</h1>
-<h3 align="center">Full-Stack .NET Developer with 4+ years of experience in building scalable, cloud-native applications using .NET Core, Microservices, Angular, SQL, and NoSQL. Skilled in architecting robust solutions and leading large-scale migrations, including transitioning a native mobile app to a PWA for over 70,000 users. Passionate about solving complex challenges and ensuring long-term scalability. Strong communicator, adept at collaborating with both technical and business teams.</h3>
+# Hi 👋, I'm Mohammed Rafi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdd-24&label=Profile%20views&color=0e75b6&style=flat" alt="mhdd-24" /> </p>
+### Full Stack Engineer • AI Enthusiast • System Design • Cloud Native Applications
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhdd-24" alt="mhdd-24" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muhddd_24" target="blank"><img src="https://img.shields.io/twitter/follow/muhddd_24?logo=twitter&style=for-the-badge" alt="muhddd_24" /></a> </p>
-
-- 🔭 I’m currently working on **Revenue Technology Service**
-
-- 🌱 I’m currently learning **Advanced AI prompt engineering and system design**
-
-- 👯 I’m looking to collaborate on **Engineering CRM and scalable backend systems**
-
-- 🤝 I’m looking for help with **AI integrations in CRM solutions**
-
-- 👨‍💻 All of my projects are available at [https://mhdd-24.github.io/mhdd-portfolio/](https://mhdd-24.github.io/mhdd-portfolio/)
-
-- 💬 Ask me about **Node.js, .NET, Angular, full-stack development, and AI**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11SYiKfSmhCEemj_5FzWhZ4VA9haU3ivP/view](https://drive.google.com/file/d/11SYiKfSmhCEemj_5FzWhZ4VA9haU3ivP/view)
-
-- ⚡ Fun fact **I think I am funny 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhddd_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhddd_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mhdd24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhdd24/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.snapchat.com/add/mhdd_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.snapchat.com/add/mhdd_24" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mhdd_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhdd_24" height="30" width="40" /></a>
-<a href="https://medium.com/@mhdd_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhdd_24" height="30" width="40" /></a>
+<p>
+Building scalable enterprise software using
+<strong>.NET • Node.js • Java • Angular • React • AI</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mhdd24.uk-blue?style=for-the-badge&logo=google-chrome)](https://mhdd24.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Rafi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mhdd24)
+[![Medium](https://img.shields.io/badge/Medium-@mhdd_24-black?style=for-the-badge&logo=medium)](https://medium.com/@mhdd_24)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mhdd24.rafi@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhdd-24&show_icons=true&locale=en&layout=compact" alt="mhdd-24" /></p>
+<img src="https://komarev.com/ghpvc/?username=mhdd-24&style=for-the-badge"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdd-24&show_icons=true&locale=en" alt="mhdd-24" /></p>
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Full Stack Engineer** with **4+ years** of experience building enterprise-grade software used by millions of users.
+
+Currently working at **Revenue Technology Services (RTS)** developing modern Airline Cargo Management Systems.
+
+Previously worked at **Bajaj Finserv**, where I contributed to:
+
+- Engineering CRM
+- Employee360
+- SalesOne
+- Enterprise PWAs
+- Financial Platforms
+
+I enjoy designing scalable software, cloud-native applications, AI-powered solutions, and modern frontend architectures.
+
+---
+
+# 🚀 Current Focus
+
+- ✈ Airline Cargo Management Systems
+- 🤖 AI Powered Applications
+- ⚡ Angular Standalone Components
+- 🏗 Enterprise Component Libraries
+- ☁ Cloud Native Architecture
+- 📦 Microservices
+- 🧠 Prompt Engineering
+- 📈 System Design
+
+---
+
+# 💼 Professional Experience
+
+## Revenue Technology Services (RTS)
+
+**Software Development Engineer II**
+
+> Airline Cargo Management Systems
+
+### Working with
+
+- .NET Core
+- Angular 19
+- Kafka
+- MongoDB
+- SQL Server
+- Kendo UI
+- Microservices
+
+Working on products including
+
+- Velocity
+- AcceleRate
+- Foresight
+
+---
+
+## Bajaj Finserv
+
+### Software Development Engineer II
+
+Worked on
+
+- Engineering CRM
+- Employee360
+- API Monitoring
+- Azure DevOps Integration
+- Progressive Web Apps
+
+Achievements
+
+✅ Migrated SalesOne App to PWA
+
+✅ Used by 70,000+ employees
+
+✅ Reduced deployment effort by 60%
+
+---
+
+### Software Development Engineer I
+
+Worked on
+
+- Financial Platforms
+
+- Enterprise PWAs
+
+- JWT Authentication
+
+- OAuth
+
+- SQL & NoSQL
+
+- REST APIs
+
+Applications served
+
+**70M+ Downloads**
+
+---
+
+## JETZ Global Logistics
+
+Software Engineer
+
+Worked on
+
+- Cargo Management
+- Shipment Tracking
+- Logistics Dashboard
+- Import / Export Systems
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,java,spring"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+SQL Server
+
+REST APIs
+
+NoSQL
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
+
+</p>
+
+Kafka
+
+RabbitMQ
+
+CI/CD
+
+Microservices
+
+---
+
+## AI & ML
+
+- Prompt Engineering
+
+- GPT
+
+- OpenAI
+
+- Deep Learning
+
+- NLP
+
+- OCR
+
+- TensorFlow
+
+---
+
+# 🏆 Featured Projects
+
+## ✈ Airline Cargo Management
+
+Enterprise airline cargo platform built using
+
+Angular
+
+.NET
+
+Kafka
+
+MongoDB
+
+SQL Server
+
+---
+
+## 💰 Engineering CRM
+
+Enterprise internal CRM integrating
+
+Azure DevOps
+
+Employee360
+
+API Monitoring
+
+Analytics
+
+PWA
+
+---
+
+## 🤖 Fake Review Detection
+
+Deep Learning
+
+NLP
+
+Sentiment Analysis
+
+Yelp Dataset
+
+---
+
+## 🔍 Venmurasu Search Engine
+
+Tamil NLP
+
+OCR
+
+Search Indexing
+
+---
+
+## 👁 Diabetic Retinopathy Detection
+
+AI
+
+Deep Learning
+
+Medical Imaging
+
+---
+
+## 🍷 Wine Quality Prediction
+
+Machine Learning
+
+Random Forest
+
+Naive Bayes
+
+SVM
+
+---
+
+## 💃 Dance Studio Manager
+
+Scheduling
+
+Payments
+
+Instructor Management
+
+---
+
+## 🍲 AI Recipe Application
+
+AI
+
+Recipe Recommendation
+
+Responsive UI
+
+---
+
+## 🚘 Tesla Clone
+
+React
+
+Three.js
+
+Animations
+
+---
+
+# 📚 Research
+
+### Fake Review Detection Using Deep Learning
+
+Published research focusing on identifying fake online reviews using deep learning and NLP techniques.
+
+---
+
+# 🏅 Achievements
+
+🥇 Winner — Bajaj Finserv Hackathon
+
+🏆 RTS Spot Award
+
+🚀 Migrated enterprise application to PWA
+
+👨‍🏫 Technical Mentor
+
+📱 Built applications used by 70M+ users
+
+👥 Developed PWA for 70,000+ employees
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdd-24" alt="GitHub Streak Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhdd-24&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdd-24&layout=compact&theme=github_dark"/>
+
 </p>
 
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mhdd-24&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdd-24&theme=github-dark"/>
+
+---
+
+# ✍ Latest Articles
+
+Coming Soon...
+
+Read more on
+
+👉 https://medium.com/@mhdd_24
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://mhdd24.uk/">🌍 Portfolio</a>
+
+<br>
+
+<a href="https://linkedin.com/in/mhdd24">💼 LinkedIn</a>
+
+<br>
+
+<a href="https://github.com/mhdd-24">💻 GitHub</a>
+
+<br>
+
+<a href="https://medium.com/@mhdd_24">✍ Medium</a>
+
+<br>
+
+<a href="mailto:mhdd24.rafi@gmail.com">📧 Email</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Building software that scales—from enterprise systems to AI-powered applications."
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
