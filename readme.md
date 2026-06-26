@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=110&text=Mohammed%20Rafi&fontSize=42&fontColor=ffffff&stroke=58a6ff&font=Inter"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Mohammed%20Rafi&fontSize=32&fontColor=e6edf3&color=0:0d1117,100:21262d"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%E2%80%A2+AI+Enthusiast+%E2%80%A2+System+Design+%E2%80%A2+Cloud+Native+Applications"/>
+<h3>Full Stack Engineer • AI Enthusiast • System Design • Cloud Native Applications</h3>
 
 <p>Building scalable enterprise software using<br><strong>.NET • Node.js • Java • Angular • React • AI</strong></p>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=58a6ff&height=2&section=footer&reverse=true&width=100%"/>
+---
 
 ## 👨‍💻 About Me
 
@@ -48,9 +48,9 @@ I enjoy designing scalable software, cloud-native applications, AI-powered solut
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="8">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
-<td width="33%" valign="top">
+<td width="38%" valign="top" bgcolor="#161b22">
 
 ### 💼 Professional Experience
 
@@ -128,7 +128,7 @@ Worked on
 - Import / Export Systems
 
 </td>
-<td width="33%" valign="top">
+<td width="26%" valign="top" bgcolor="#161b22">
 
 ### 🛠 Tech Stack
 
@@ -179,7 +179,7 @@ Microservices
 - TensorFlow
 
 </td>
-<td width="34%" valign="top">
+<td width="36%" valign="top" bgcolor="#161b22">
 
 ### 🏆 Featured Projects
 
@@ -361,7 +361,7 @@ Read more on
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&section=footer&text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile!&fontSize=16&fontColor=e6edf3&color=0:161b22,100:0d1117&font=Inter"/>
+⭐ **Thanks for visiting my profile!**
 
 If you like my work, consider giving a ⭐ to my repositories.
 
